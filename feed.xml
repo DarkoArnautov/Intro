@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator>
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-10-02T11:07:03+03:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="https://darkoarnautov.github.io/Intro//feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://darkoarnautov.github.io/Intro//" rel="alternate" type="text/html" />
+  <updated>2018-10-02T11:11:25+03:00</updated>
+  <id>https://darkoarnautov.github.io/Intro//</id>
 
   
     <title type="html">Darko Arnautov</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Project 3</title>
-      <link href="http://localhost:4000/web%20development/2018/07/14/project-3/" rel="alternate" type="text/html" title="Project 3" />
+      <link href="https://darkoarnautov.github.io/Intro//web%20development/2018/07/14/project-3/" rel="alternate" type="text/html" title="Project 3" />
       <published>2018-07-14T00:00:00+03:00</published>
       <updated>2018-07-14T00:00:00+03:00</updated>
-      <id>http://localhost:4000/web%20development/2018/07/14/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2018/07/14/project-3/"></content>
+      <id>https://darkoarnautov.github.io/Intro//web%20development/2018/07/14/project-3</id>
+      <content type="html" xml:base="https://darkoarnautov.github.io/Intro//web%20development/2018/07/14/project-3/"></content>
 
       
       
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">Project 1</title>
-      <link href="http://localhost:4000/web%20development/2017/07/15/project-1/" rel="alternate" type="text/html" title="Project 1" />
+      <link href="https://darkoarnautov.github.io/Intro//web%20development/2017/07/15/project-1/" rel="alternate" type="text/html" title="Project 1" />
       <published>2017-07-15T00:00:00+03:00</published>
       <updated>2017-07-15T00:00:00+03:00</updated>
-      <id>http://localhost:4000/web%20development/2017/07/15/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2017/07/15/project-1/"></content>
+      <id>https://darkoarnautov.github.io/Intro//web%20development/2017/07/15/project-1</id>
+      <content type="html" xml:base="https://darkoarnautov.github.io/Intro//web%20development/2017/07/15/project-1/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Project 2</title>
-      <link href="http://localhost:4000/web%20development/2017/06/14/project-2/" rel="alternate" type="text/html" title="Project 2" />
+      <link href="https://darkoarnautov.github.io/Intro//web%20development/2017/06/14/project-2/" rel="alternate" type="text/html" title="Project 2" />
       <published>2017-06-14T00:00:00+03:00</published>
       <updated>2017-06-14T00:00:00+03:00</updated>
-      <id>http://localhost:4000/web%20development/2017/06/14/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2017/06/14/project-2/"></content>
+      <id>https://darkoarnautov.github.io/Intro//web%20development/2017/06/14/project-2</id>
+      <content type="html" xml:base="https://darkoarnautov.github.io/Intro//web%20development/2017/06/14/project-2/"></content>
 
       
       
