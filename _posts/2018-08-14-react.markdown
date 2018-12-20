@@ -5,7 +5,19 @@ date: 2018-07-14
 img: React_Portfolio.png
 alt: image-alt
 project-date: July 2018
-client: Start Jekyll FreeLancer-Theme
+client: React, Redux, Auth0, Apollo
 category: Web Development
-description: Personnel Introdution site using Jekyll
+description: 
 ---
+
+#### 1. React/Redux
+
+[https://github.com/DarkoArnautov/React_Redux_Project_SPA](https://github.com/DarkoArnautov/React_Redux_Project_SPA)
+
+#### 2. React/Auth0
+
+[https://github.com/DarkoArnautov/React_Auth0_SPA](https://github.com/DarkoArnautov/React_Auth0_SPA)
+
+#### 3. React/Apollo/Prisma
+
+[https://github.com/DarkoArnautov/React_Apollo_Prisma](https://github.com/DarkoArnautov/React_Apollo_Prisma)
