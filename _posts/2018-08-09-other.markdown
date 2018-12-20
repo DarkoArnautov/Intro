@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2017-06-14
+img: other.png
+alt: image-alt
+project-date: Jun 2017
+client: Me
+category: Web Development
+description: Personnel Portfolio Site using React/Redux. login, post, like action module
+---

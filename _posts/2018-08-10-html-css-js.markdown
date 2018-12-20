@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-06-14
-img: react.png
+img: html-portfolio.png
 alt: image-alt
 project-date: Jun 2017
 client: Me

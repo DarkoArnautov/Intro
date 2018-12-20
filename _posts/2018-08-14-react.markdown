@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2018-07-14
+img: React_Portfolio.png
+alt: image-alt
+project-date: July 2018
+client: Start Jekyll FreeLancer-Theme
+category: Web Development
+description: Personnel Introdution site using Jekyll
+---
