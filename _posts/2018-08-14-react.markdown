@@ -10,9 +10,9 @@ category: Web Development
 description: 
 ---
 
-#### 1. React/Redux
+#### 1. React-Firebase-bulma
+[https://react-firebase-authentic-550a6.firebaseapp.com/](https://react-firebase-authentic-550a6.firebaseapp.com/)
 
-[https://github.com/DarkoArnautov/React_Redux_Project_SPA](https://github.com/DarkoArnautov/React_Redux_Project_SPA)
 
 #### 2. React/Auth0
 
@@ -21,3 +21,7 @@ description:
 #### 3. React/Apollo/Prisma
 
 [https://github.com/DarkoArnautov/React_Apollo_Prisma](https://github.com/DarkoArnautov/React_Apollo_Prisma)
+
+#### 4. React/Redux
+
+[https://github.com/DarkoArnautov/React_Redux_Project_SPA](https://github.com/DarkoArnautov/React_Redux_Project_SPA)
