@@ -10,6 +10,9 @@ category: Web Development
 description: Bootstrap theme development using html/css/javascript
 ---
 
-#### 1. Vue-Nuxt-Bootstrap 4
+#### 1. Vue.js
 
+[https://azimuth-vue.netlify.com/](https://azimuth-vue.netlify.com/)
+[https://agilelaw.netlify.com/](https://agilelaw.netlify.com/)
+[https://docs.zenaton.com](https://docs.zenaton.com)
 [https://vue-nuxt-bootstrap4.netlify.com/](https://vue-nuxt-bootstrap4.netlify.com/)

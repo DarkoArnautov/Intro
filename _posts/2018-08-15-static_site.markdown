@@ -7,35 +7,26 @@ alt: image-alt
 project-date: July 2017
 client: Start Bootstrap
 category: Web Development
-description: Bootstrap theme development using html/css/javascript
+description: Site Development using Jekyll or Hugo
 ---
 
 #### 1. Jekyll
 
-Content-migration in Jekyll - [http://help.theobald-software.com/](http://help.theobald-software.com/)<br>
+[https://www.getdor.com/](https://www.getdor.com/)
+[https://pm2-new.netlify.com/](https://pm2-new.netlify.com/)
+[https://handpoint.com/](https://handpoint.com/)
+[http://modernthingz.com/](http://modernthingz.com/)
+[http://help.theobald-software.com/](http://help.theobald-software.com/)<br>
 
-Modify Jekyll Site - [http://curiositydata.org/](http://curiositydata.org/)
-
-Development from Sketch - [https://darkoarnautov.github.io/nerd/](https://darkoarnautov.github.io/nerd/)<br>
-
-WordPress to Jekyll - [https://darkoarnautov.github.io/friendsforturner/](https://darkoarnautov.github.io/friendsforturner/)<br>
-
-WordPress to Jekyll - [https://darkoarnautov.github.io/LGRCI.com](https://darkoarnautov.github.io/LGRCI.com)<br>
 
 #### 2. Hugo
 
-Hugo, AWS, Angular, Git Modification - [https://www.mortgagerewind.com](https://www.mortgagerewind.com)<br>
+[https://multilogin.com/](https://multilogin.com/)
+[https://www.kosli.com/](https://www.kosli.com/)
+[https://postgres.ai/](https://postgres.ai/)
+[https://datainsight.health](https://datainsight.health)
+[https://azurearcjumpstart.io/](https://azurearcjumpstart.io/)
+[https://hbpmedical.github.io](https://hbpmedical.github.io)
+[https://clairvoyantsoft.com/](https://clairvoyantsoft.com/)
+[https://regnskapnord.netlify.com/](https://regnskapnord.netlify.com/)
 
-html site to Hugo/Netlify CMS - [https://regnskapnord.netlify.com/](https://regnskapnord.netlify.com/)
-
-Develop based Hugo theme and deploy firebase - [https://cayo.ch](https://cayo.ch)
-
-Html Site to Hugo site including blogging - [https://www.990consulting.com/](https://www.990consulting.com/) 
-
-Customize and added new layout in existing theme - [https://xenodochial-mestorf-e7132f.netlify.com/authors/kym_b/](https://xenodochial-mestorf-e7132f.netlify.com/authors/kym_b/)<br>
-
-
-#### 3. Gatsby
-
-[https://darko-gatsby-start.netlify.com/](https://darko-gatsby-start.netlify.com/)<br>
-Customize Gatsby starter theme
