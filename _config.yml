@@ -61,5 +61,4 @@ credits:
   - line: Phone- (+389) 078 595 943
 
 # Build settings
-markdown: kramdown
 permalink: pretty
